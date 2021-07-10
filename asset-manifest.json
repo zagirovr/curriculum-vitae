@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/serpent-charmer/curriculumvitae/static/css/main.09bbd0d1.chunk.css",
-    "main.js": "/serpent-charmer/curriculumvitae/static/js/main.a166bfa6.chunk.js",
-    "main.js.map": "/serpent-charmer/curriculumvitae/static/js/main.a166bfa6.chunk.js.map",
-    "runtime-main.js": "/serpent-charmer/curriculumvitae/static/js/runtime-main.12c58dd7.js",
-    "runtime-main.js.map": "/serpent-charmer/curriculumvitae/static/js/runtime-main.12c58dd7.js.map",
-    "static/css/2.bbf5bbc2.chunk.css": "/serpent-charmer/curriculumvitae/static/css/2.bbf5bbc2.chunk.css",
-    "static/js/2.19a2ca56.chunk.js": "/serpent-charmer/curriculumvitae/static/js/2.19a2ca56.chunk.js",
-    "static/js/2.19a2ca56.chunk.js.map": "/serpent-charmer/curriculumvitae/static/js/2.19a2ca56.chunk.js.map",
-    "static/js/3.d4995d2a.chunk.js": "/serpent-charmer/curriculumvitae/static/js/3.d4995d2a.chunk.js",
-    "static/js/3.d4995d2a.chunk.js.map": "/serpent-charmer/curriculumvitae/static/js/3.d4995d2a.chunk.js.map",
-    "index.html": "/serpent-charmer/curriculumvitae/index.html",
-    "static/css/2.bbf5bbc2.chunk.css.map": "/serpent-charmer/curriculumvitae/static/css/2.bbf5bbc2.chunk.css.map",
-    "static/css/main.09bbd0d1.chunk.css.map": "/serpent-charmer/curriculumvitae/static/css/main.09bbd0d1.chunk.css.map",
-    "static/js/2.19a2ca56.chunk.js.LICENSE.txt": "/serpent-charmer/curriculumvitae/static/js/2.19a2ca56.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/serpent-charmer/curriculumvitae/static/media/JetBrainsMono-VariableFont_wght.e1766c48.ttf",
-    "static/media/Post.scss": "/serpent-charmer/curriculumvitae/static/media/MaterialIcons-Regular.cff684e5.woff2",
-    "static/media/logo.6ce24c58.svg": "/serpent-charmer/curriculumvitae/static/media/logo.6ce24c58.svg"
+    "main.css": "/curriculumvitae/static/css/main.2e08cb66.chunk.css",
+    "main.js": "/curriculumvitae/static/js/main.a166bfa6.chunk.js",
+    "main.js.map": "/curriculumvitae/static/js/main.a166bfa6.chunk.js.map",
+    "runtime-main.js": "/curriculumvitae/static/js/runtime-main.c60f937d.js",
+    "runtime-main.js.map": "/curriculumvitae/static/js/runtime-main.c60f937d.js.map",
+    "static/css/2.719162ee.chunk.css": "/curriculumvitae/static/css/2.719162ee.chunk.css",
+    "static/js/2.19a2ca56.chunk.js": "/curriculumvitae/static/js/2.19a2ca56.chunk.js",
+    "static/js/2.19a2ca56.chunk.js.map": "/curriculumvitae/static/js/2.19a2ca56.chunk.js.map",
+    "static/js/3.d4995d2a.chunk.js": "/curriculumvitae/static/js/3.d4995d2a.chunk.js",
+    "static/js/3.d4995d2a.chunk.js.map": "/curriculumvitae/static/js/3.d4995d2a.chunk.js.map",
+    "index.html": "/curriculumvitae/index.html",
+    "static/css/2.719162ee.chunk.css.map": "/curriculumvitae/static/css/2.719162ee.chunk.css.map",
+    "static/css/main.2e08cb66.chunk.css.map": "/curriculumvitae/static/css/main.2e08cb66.chunk.css.map",
+    "static/js/2.19a2ca56.chunk.js.LICENSE.txt": "/curriculumvitae/static/js/2.19a2ca56.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/curriculumvitae/static/media/JetBrainsMono-VariableFont_wght.e1766c48.ttf",
+    "static/media/Post.scss": "/curriculumvitae/static/media/MaterialIcons-Regular.cff684e5.woff2",
+    "static/media/logo.6ce24c58.svg": "/curriculumvitae/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12c58dd7.js",
-    "static/css/2.bbf5bbc2.chunk.css",
+    "static/js/runtime-main.c60f937d.js",
+    "static/css/2.719162ee.chunk.css",
     "static/js/2.19a2ca56.chunk.js",
-    "static/css/main.09bbd0d1.chunk.css",
+    "static/css/main.2e08cb66.chunk.css",
     "static/js/main.a166bfa6.chunk.js"
   ]
 }
