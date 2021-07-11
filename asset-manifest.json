@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/curriculumvitae/static/css/main.eca13f53.chunk.css",
+    "main.css": "/curriculumvitae/static/css/main.474ad018.chunk.css",
     "main.js": "/curriculumvitae/static/js/main.51c638ab.chunk.js",
     "main.js.map": "/curriculumvitae/static/js/main.51c638ab.chunk.js.map",
     "runtime-main.js": "/curriculumvitae/static/js/runtime-main.fe316996.js",
@@ -12,7 +12,7 @@
     "static/js/3.5e97d431.chunk.js.map": "/curriculumvitae/static/js/3.5e97d431.chunk.js.map",
     "index.html": "/curriculumvitae/index.html",
     "static/css/2.719162ee.chunk.css.map": "/curriculumvitae/static/css/2.719162ee.chunk.css.map",
-    "static/css/main.eca13f53.chunk.css.map": "/curriculumvitae/static/css/main.eca13f53.chunk.css.map",
+    "static/css/main.474ad018.chunk.css.map": "/curriculumvitae/static/css/main.474ad018.chunk.css.map",
     "static/js/2.041dd265.chunk.js.LICENSE.txt": "/curriculumvitae/static/js/2.041dd265.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/curriculumvitae/static/media/JetBrainsMono-VariableFont_wght.e1766c48.ttf",
     "static/media/Post.scss": "/curriculumvitae/static/media/MaterialIcons-Regular.cff684e5.woff2",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.fe316996.js",
     "static/css/2.719162ee.chunk.css",
     "static/js/2.041dd265.chunk.js",
-    "static/css/main.eca13f53.chunk.css",
+    "static/css/main.474ad018.chunk.css",
     "static/js/main.51c638ab.chunk.js"
   ]
 }
