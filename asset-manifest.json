@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.1e2d7ef1.chunk.css",
-    "main.js": "/resume/static/js/main.58844208.chunk.js",
-    "main.js.map": "/resume/static/js/main.58844208.chunk.js.map",
-    "runtime-main.js": "/resume/static/js/runtime-main.804bd099.js",
-    "runtime-main.js.map": "/resume/static/js/runtime-main.804bd099.js.map",
-    "static/css/2.3b67426c.chunk.css": "/resume/static/css/2.3b67426c.chunk.css",
-    "static/js/2.19a2ca56.chunk.js": "/resume/static/js/2.19a2ca56.chunk.js",
-    "static/js/2.19a2ca56.chunk.js.map": "/resume/static/js/2.19a2ca56.chunk.js.map",
-    "static/js/3.d4995d2a.chunk.js": "/resume/static/js/3.d4995d2a.chunk.js",
-    "static/js/3.d4995d2a.chunk.js.map": "/resume/static/js/3.d4995d2a.chunk.js.map",
-    "index.html": "/resume/index.html",
-    "static/css/2.3b67426c.chunk.css.map": "/resume/static/css/2.3b67426c.chunk.css.map",
-    "static/css/main.1e2d7ef1.chunk.css.map": "/resume/static/css/main.1e2d7ef1.chunk.css.map",
-    "static/js/2.19a2ca56.chunk.js.LICENSE.txt": "/resume/static/js/2.19a2ca56.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/resume/static/media/JetBrainsMono-VariableFont_wght.e1766c48.ttf",
-    "static/media/Post.scss": "/resume/static/media/MaterialIcons-Regular.cff684e5.woff2",
-    "static/media/logo.6ce24c58.svg": "/resume/static/media/logo.6ce24c58.svg"
+    "main.css": "/curriculum-vitae/static/css/main.ba6abc9f.chunk.css",
+    "main.js": "/curriculum-vitae/static/js/main.58844208.chunk.js",
+    "main.js.map": "/curriculum-vitae/static/js/main.58844208.chunk.js.map",
+    "runtime-main.js": "/curriculum-vitae/static/js/runtime-main.ca112fdf.js",
+    "runtime-main.js.map": "/curriculum-vitae/static/js/runtime-main.ca112fdf.js.map",
+    "static/css/2.65ffb52c.chunk.css": "/curriculum-vitae/static/css/2.65ffb52c.chunk.css",
+    "static/js/2.19a2ca56.chunk.js": "/curriculum-vitae/static/js/2.19a2ca56.chunk.js",
+    "static/js/2.19a2ca56.chunk.js.map": "/curriculum-vitae/static/js/2.19a2ca56.chunk.js.map",
+    "static/js/3.d4995d2a.chunk.js": "/curriculum-vitae/static/js/3.d4995d2a.chunk.js",
+    "static/js/3.d4995d2a.chunk.js.map": "/curriculum-vitae/static/js/3.d4995d2a.chunk.js.map",
+    "index.html": "/curriculum-vitae/index.html",
+    "static/css/2.65ffb52c.chunk.css.map": "/curriculum-vitae/static/css/2.65ffb52c.chunk.css.map",
+    "static/css/main.ba6abc9f.chunk.css.map": "/curriculum-vitae/static/css/main.ba6abc9f.chunk.css.map",
+    "static/js/2.19a2ca56.chunk.js.LICENSE.txt": "/curriculum-vitae/static/js/2.19a2ca56.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/curriculum-vitae/static/media/JetBrainsMono-VariableFont_wght.e1766c48.ttf",
+    "static/media/Post.scss": "/curriculum-vitae/static/media/MaterialIcons-Regular.cff684e5.woff2",
+    "static/media/logo.6ce24c58.svg": "/curriculum-vitae/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.804bd099.js",
-    "static/css/2.3b67426c.chunk.css",
+    "static/js/runtime-main.ca112fdf.js",
+    "static/css/2.65ffb52c.chunk.css",
     "static/js/2.19a2ca56.chunk.js",
-    "static/css/main.1e2d7ef1.chunk.css",
+    "static/css/main.ba6abc9f.chunk.css",
     "static/js/main.58844208.chunk.js"
   ]
 }
